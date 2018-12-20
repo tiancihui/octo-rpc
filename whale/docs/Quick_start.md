@@ -11,8 +11,8 @@ Whale 依赖下列组件:
 * [log4cplus](https://github.com/log4cplus/log4cplus): 日志库
 * [zookeeper](https://github.com/apache/zookeeper): zookeeper c api
 * [rapidjson](https://github.com/Tencent/rapidjson): json解析库
-* [octoidl](): octo-mns 通用公共依赖
-* [mns-sdk](): octo-mns 通用c++ 服务注册发现sdk
+* [octoidl](https://github.com/Meituan-Dianping/octo-ns): octo-mns 通用公共依赖
+* [mns-sdk](https://github.com/Meituan-Dianping/octo-ns): octo-mns 通用c++ 服务注册发现sdk
 
 
 # 依赖支持
