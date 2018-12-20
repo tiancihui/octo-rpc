@@ -110,7 +110,7 @@ thrift 和 zookeeper 一般很少有yum源，请自行参照官方使用文档�
 
 
 ### Whale 和 OCTO-mns一起使用
-> 见 Whale 配置手册 和 OCTO-mns环境搭建
+> 见 [Whale 配置手册](Whale-config.md) 和 [OCTO-mns环境搭建](https://github.com/Meituan-Dianping/octo-ns)
 
 
 
